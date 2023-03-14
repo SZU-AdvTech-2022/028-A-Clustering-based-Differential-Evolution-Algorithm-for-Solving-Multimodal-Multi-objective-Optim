@@ -1,0 +1,8 @@
+@article{REPO-028,
+    author = "Liang, J. and Qiao, K. and Yue, C. and Yu, K. and Hu, Y.",
+    journal = "Swarm and Evolutionary Computation",
+    pages = "100788",
+    title = "{A Clustering-based Differential Evolution Algorithm for Solving Multimodal Multi-objective Optimization Problems}",
+    volume = "60",
+    year = "2021"
+}
